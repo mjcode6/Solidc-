@@ -1,0 +1,15 @@
+C:\Users\mjsiv\desktop\solid\bin\Debug\net7.0\solid.exe
+C:\Users\mjsiv\desktop\solid\bin\Debug\net7.0\solid.deps.json
+C:\Users\mjsiv\desktop\solid\bin\Debug\net7.0\solid.runtimeconfig.json
+C:\Users\mjsiv\desktop\solid\bin\Debug\net7.0\solid.dll
+C:\Users\mjsiv\desktop\solid\bin\Debug\net7.0\solid.pdb
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.csproj.AssemblyReference.cache
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.AssemblyInfoInputs.cache
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.AssemblyInfo.cs
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.csproj.CoreCompileInputs.cache
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.dll
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\refint\solid.dll
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.pdb
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\solid.genruntimeconfig.cache
+C:\Users\mjsiv\desktop\solid\obj\Debug\net7.0\ref\solid.dll
